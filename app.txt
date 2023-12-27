@@ -1,3 +1,8 @@
 Esta es un app
 
+Pasos para ejecutarla
+
+1. abrir la app
+2. ejecutar
+3. cerrar
 Adios!
